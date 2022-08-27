@@ -1,3 +1,4 @@
+
 var taskList = [];
 
 function createTask() {
@@ -123,7 +124,6 @@ function handleUpdateBtn() {
         }
     }
 }
-
 
 // Validation
 function validateInput(data) {
